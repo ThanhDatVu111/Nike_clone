@@ -10,10 +10,15 @@ Vite
 
 ## 🔋 Features
 Maximizing Tailwind CSS: Discover tips and tricks for making the most out of Tailwind's utility-first CSS approach.
+
 Tailwind Internals: Gain insights into the inner workings and optimizations of Tailwind.
+
 Best Practices: Learn how to write clean, efficient, and maintainable code with Tailwind CSS.
+
 Custom Theming: Explore techniques to implement multiple themes to enhance user experience.
+
 JavaScript-like Tasks: Achieve tasks usually requiring JavaScript, such as animations and interactivity, using only Tailwind CSS utilities.
+
 
 ## Highlights of the Website:
 Complex Hero Section: A dynamic hero section with imagery and product highlights.
