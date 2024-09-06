@@ -80,13 +80,13 @@ constants/: Store shared configuration and data.
 assets/: Images and icons used across the site.
 
 ## 🕸️ Important Configurations
-.eslintrc.cjs
+**.eslintrc.cjs**
 Linting configuration for code quality and consistency.
 
-constants/index.js
+**constants/index.js**
 Centralized configuration for constants and shared data.
 
-tailwind.config.js
+**tailwind.config.js**
 Tailwind customization for colors, breakpoints, and additional utility classes.
 
 
