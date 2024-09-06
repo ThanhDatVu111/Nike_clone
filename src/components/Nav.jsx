@@ -21,6 +21,9 @@ const Nav = () => {
               <a href={item.href} className='font-semibold leading-normal text-lg text-black' >
                 {item.label}
               </a>
+              {/*The <a> tag is an anchor element that creates a hyperlink. It uses item.href for the href attribute,
+                which points to a specific section or page. The text inside the <a> tag is item.label, which is the visible 
+                name of the link.*/}
             </li>
           ))}
         </ul>

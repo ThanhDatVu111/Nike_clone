@@ -32,23 +32,23 @@ export const statistics = [
 export const products = [
     {
         imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        name: "Nike Travis Scott",
+        price: "$1265.00",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "Nike Black Phantom",
+        price: "$700.00",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        name: "Nike Nocta",
+        price: "$450.20",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "Nike Dunk Low",
+        price: "$370.20",
     },
 ];
 
@@ -56,32 +56,32 @@ export const services = [
     {
         imgURL: truckFast,
         label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        subtext: "Shop with ease and enjoy our free, fast shipping on all orders."
     },
     {
         imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        label: "Trusted Payment",
+        subtext: "Make secure and reliable transactions with our trusted payment methods."
     },
     {
         imgURL: support,
-        label: "Love to help you",
-        subtext: "Our dedicated team is here to assist you every step of the way."
+        label: "Customer Support",
+        subtext: "We're here to help—reach out to our team anytime for assistance."
     },
 ];
 
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        customerName: 'Thanh Dat Vu',
+        rating: 4.8,
+        feedback: "These Nike shoes are so fast, I’m convinced they’ll outrun my excuses for skipping the gym!"
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        customerName: 'Hoang Anh Pham',
+        rating: 5.0,
+        feedback: "Bought these Nikes, and now I’m 100% sure I’m ready for the Olympics... or at least the walk to the fridge."
     }
 ];
 
@@ -90,12 +90,12 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Jordan 1 Off White", link: "/" },
+            { name: "Jordan 1 Travis Scott", link: "/" },
+            { name: "Jordan 1 Lost and Found", link: "/" },
+            { name: "Nike Black Phantom", link: "/" },
+            { name: "Nike Nocta", link: "/" },
+            { name: "Nike Dunk Low", link: "/" },
         ],
     },
     {
@@ -111,8 +111,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "thanhdatvu.203@gmail.com", link: "mailto:thanhdatvu.203@gmail.com" },
+            { name: "+1 7406076217", link: "tel:+1 7406076217" },
         ],
     },
 ];
