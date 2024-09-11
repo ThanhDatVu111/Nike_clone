@@ -1,4 +1,4 @@
-# 👟 Nike Clone Website
+# 👟 Nike Landing Page Website
 A responsive, modern, and visually stunning Nike-inspired website built using React.js and Tailwind CSS. This project demonstrates the effective use of advanced Tailwind CSS techniques, React component structuring, and a sleek design, making it an ideal addition to your portfolio.
 https://youtu.be/zse_n5iliFM
 
